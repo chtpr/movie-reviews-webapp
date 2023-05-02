@@ -1,0 +1,22 @@
+.homeTitle {
+    vertical-align:middle;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;  
+}
+
+p {
+    vertical-align:middle;
+    text-align: center;
+    margin: auto;
+}
+
+.movieTitle {
+    text-decoration: none;
+    color: rgb(0, 47, 128);
+}
+
+.movieTitle:hover {
+    text-decoration: underline;
+}
